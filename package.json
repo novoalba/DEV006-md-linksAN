@@ -8,5 +8,12 @@
     "createdAt": "2023-05-17T14:36:24.002Z",
     "version": "6.2.0",
     "commit": "6de8e2f7e38d779fd6845c63477977fb1eb3af99"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "http": "^0.0.1-security",
+    "markdown-it": "^13.0.1",
+    "markdown-link-extractor": "^3.1.0",
+    "marked": "^2.0.3"
   }
 }
